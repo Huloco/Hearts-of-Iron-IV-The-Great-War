@@ -4,117 +4,127 @@
 # LAND DOCTRINES
 
 ww1_landdoctrine:0 "Carga em Massa"
-ww1_landdoctrine_desc:0 "Once, armies trudged slowly up the battlefield, forming line before giving fire. With the Maxim now in use by nearly ever army in the world, however, this would be a good way to get our troops slaughtered. Our generals believe we need fast-moving charges of overwhelming numbers to break enemy defenses!"
+ww1_landdoctrine_desc:0 "Antigamente, os exércitos marchavam lentamente pelo campo de batalha, formando linhas antes de entrar em combate. Com a Maxim britânica agora em uso por quase todos os exércitos do mundo, no entanto, esta seria uma boa maneira de matar nossas tropas. Nossos generais acreditam que precisamos de ataques rápidos e números esmagadores para quebrar as defesas inimigas!
+!"
 
 ww1_directfire:0 "Batalhoes de Entricheiramento"
-ww1_directfire_desc:0 "The Machine Gun is a fearsome weapon, but experience has shown it to be even more fearsome under heavy cover. Trenches seem appropriate, and specific engineering battalions designated for trench construction should speed their construction. A line of trenches shall cover the front!"
+ww1_directfire_desc:0 "A metralhadora é uma arma temível, mas a experiência mostrou que ela é ainda mais temível sob cobertura pesada. As trincheiras parecem apropriadas, e os batalhões de engenharia específicos designados para a construção de trincheiras devem acelerar sua construção.
+ Uma linha de trincheiras deve cobrir o fronte de batalha!"
 
 ww1_rifle_ammo:0 "Foco Em Rifles"
-ww1_rifle_ammo_desc:0 "Though the Machine Gun is a fearsome weapon in today's war, the Rifleman is still more common, more easily trained and equipped, and far more mobile than a man on a Maxim. Focusing on these core troops may give us a positioning and speed advantage in combat, and of course, ensure that our most common kind of foot soldier is the best kind."
+ww1_rifle_ammo_desc:0 "Embora a metralhadora seja uma arma temível na guerra de hoje, o fuzileiro ainda é mais comum, mais facilmente treinado e equipado e muito mais móvel do que um homem em uma Maxim Brutânica. Concentrar-se nessas tropas principais pode nos dar uma vantagem de posicionamento e velocidade em combate e, claro, garantir que nosso tipo mais comum de soldado de infantaria seja o melhor em combate.
+"
 
 ww1_mg_ammo:0 "Esquadrão de Metralhadoras"
-ww1_mg_ammo_desc:0 "The Heavy Machine Guns- mostly Maxims- we have in use are, despite their primacy, operated inefficiently. Any MG needs 3 people- a gunner, a loader to keep the ammunition flowing, and a spotter to call targets, support the weapon with rifle or pistol fire, and direct the MG's fire. Training support gunners in all 3 of these roles ensures a great supply of trained crews, and ensures anyone knocked out in battle can be replaced."
-
+ww1_mg_ammo_desc:0 "As metralhadoras pesadas - principalmente a Maxim Britânica - que temos em uso são, apesar de sua primazia, operadas de forma ineficiente. Qualquer uma delas precisa de 3 pessoas - um artilheiro, um carregador para manter a munição fluindo e um observador para chamar os alvos, apoiar a arma com tiros de rifle ou pistola e direcionar o fogo da metralhadora. O treinamento de artilheiros de apoio em todas essas três funções garante um grande suprimento de equipes treinadas e garante que qualquer pessoa incapaz de combater possa ser substituída.
 ww1_long_march:0 "Posição Movel"
-ww1_long_march_desc:0 "When the enemy's trench has finally been emptied and overrun, it is imperative that we be able to exploit our advantage! Several of our attacks fail simply because by the time we get to the enemy's trench line, they've already assembled a much larger counter attack, and expel our attacking force before the support moves up. By making sure our men are prepared to move up the line quickly, we ensure we can keep what ground we get."
+ww1_long_march_desc:0 "Quando a trincheira do inimigo for finalmente esvaziada e invadida, é importante que possamos explorar nossa vantagem! Vários de nossos ataques falham simplesmente porque quando chegamos à linha de trincheira do inimigo, eles já montaram um contra-ataque muito maior e expulsam nossa força de ataque antes que o suporte chuegue. Ao garantir que nossos homens estejam preparados para avançar rapidamente na linha, garantimos que podemos manter o terreno que obtivemos"
 
 ww1_defence:0 "Posição Estatica"
-ww1_defence_desc:0 "Trenches alone are nice, but more complex systems are even better. Making lines of trenches backed with bunker complexes for officers, supply depots spread out among the lines, and common signal stations will make our lines a nightmare to cross."
+ww1_defence_desc:0 "Trincheiras por si só são boas, mas sistemas mais complexos são ainda melhores. Fazer linhas de trincheiras apoiadas com complexos de bunkers para oficiais, depósitos de suprimentos espalhados entre as linhas e estações de sinais tornarão nossas linhas um pesadelo para atravessar.
+"
 
 ww1_battlefield:0 "Contra-Ofensiva"
-ww1_battlefield_desc:0 "Sometimes, the best defense is a good offense. However, sometimes the best offense is an enemy's mistake punished. By trying to bait enemies into attacking, just to slaughter them, and responding with an attack in kind, we can easily ensure a successful offensive in battle."
+ww1_battlefield_desc:0 "Às vezes, a melhor defesa é um bom ataque. No entanto, às vezes a melhor ofensiva é o erro de um inimigo distraído. Ao tentar atrair os inimigos para atacar, apenas para matá-los, e responder com um ataque na mesma moeda, podemos facilmente garantir uma ofensiva bem-sucedida na batalha."
 
 ww1_target:0 "Circulamento"
-ww1_target_desc:0 "Trenches and fortified lines are no easy target for our troops. The wall of lead and men to fight that extends seemingly forever is almost impervious to a full frontal assault. However, if we can find the weak points in the trench line, sneak through, and attack not just from the front, but the side and back as well, we can clear enemy trenches with ease."
+ww1_target_desc:0 "Trincheiras e linhas fortificadas não são alvos fáceis para nossas tropas. A parede de chumbo e homens para lutar que se estende aparentemente para sempre é quase impermeável a um ataque frontal completo. No entanto, se pudermos encontrar os pontos fracos na linha de trincheira, explorá-los e atacar não apenas pela frente, mas também pelos lados e por trás, podemos limpar as trincheiras inimigas com facilidade."
 
 ww1_night:0 "Defesa Profunda"
-ww1_night_desc:0 "With many recent developments in offensive doctrine, we must not forget our defensive doctrines as well. Deep Defense, also known as Defense in Depth, is a technique that turns the frontline trench into an entire system, with fallback lines, escape routes, and plentiful reserves, allowing us to ensure that any enemy who wants to make a long-term attack to knock our troops out of the area will pay dearly for it."
+ww1_night_desc:0 "Com muitos desenvolvimentos recentes na doutrina ofensiva, não devemos esquecer também nossas doutrinas defensivas. Defesa Profunda também conhecido como Defesa em profundidade, é uma técnica que transforma a trincheira da linha de frente em um sistema complexo, com linhas de recuo, rotas de fuga e reservas abundantes de suprimentos, permitindo-nos garantir que qualquer inimigo que queira fazer um ataque de longo prazo para expulsar nossas tropas da área pague caro por isso.
+"
 
 ww1_armored_car:0 "Estrategias Anti-Blindados"
-ww1_armored_car_desc:0 "Enemy Tanks are able to tear through lines of Infantry like nothing else, and unopposed, even when they're virtually alone. However, our direct-fire infantry guns have unexpectedly proven to be able to smash through their armor, and our basic grenades- especially larger and more explosive models- have been doing devestating damage. If we focus the use of these weapons against enemy tanks, we may just stand up to these beasts, and end the ''Tank Panic'' devestating our troops."
+ww1_armored_car_desc:0 "Tanques inimigos são capazes de rasgar linhas de infantaria com facilidade e sem oposição, mesmo quando estão praticamente sozinhos. No entanto, nossos canhões de infantaria de tiro direto provaram efetivamente ser capazes de destruir suas blindagens, e nossas granadas básicas - especialmente modelos maiores e mais explosivos - têm causado danos devastadores. Se focarmos no uso dessas armas contra tanques inimigos, poderemos  enfrentar esses monstros de aço e acabar com o ''Pânico de Tanques'' que estão aterrorizando nossas tropas."
 
 ww1_tank:0 "Suporte de Tanques Pesados"
-ww1_tank_desc:0 "These brand new Tanks seem to be the wonder weapons to win the war. Passing through enemy trenches and nearly invulnerable to small arms fire, they're devestating machines. However, there's no doubt our enemy will eventually develop the weapons needed to take these vehicles out, so we must ensure we make the most out of these new combat vehicles by the time they lose their decisive advantage."
+ww1_tank_desc:0 "Esses novos tanques parecem ser as armas maravilhosas para vencer a guerra. Passando por trincheiras inimigas e quase invulneráveis ao fogo de armas pequenas, eles são máquinas destruidoras. No entanto, não há dúvida de que nosso inimigo acabará desenvolvendo as armas necessárias para eliminar esses veículos, por isso devemos garantir que tiremos o máximo proveito desses novos veículos de combate quando eles perderem sua vantagem decisiva.
+"
 
 ww1_armored_car_and_tank:0 "Guerra Blindada"
-ww1_armored_car_and_tank_desc:0 "Tanks are getting more mobile, and beginning to be able to keep pace with our other military vehicles. In addition, tanks with a proper gun are able to fight and knock out enemy tanks. We can develop the ''Cavalry Tank'' role with these developments, allowing our faster tanks backed with Armored Cars to cause havoc in the back of enemy lines."
+ww1_armored_car_and_tank_desc:0 "Os tanques estão ficando mais móveis e começando a ser capazes de acompanhar nossos outros veículos militares. Além disso, tanques com uma arma adequada são capazes de lutar e derrubar tanques inimigos. Podemos desenvolver o papel de "Tanque de Cavalaria" com esses desenvolvimentos, permitindo que nossos tanques mais rápidos, apoiados por Carros Blindados, causem estragos na retaguarda das linhas inimigas."
 
 ww1_landdoctrine_unlock_ww2:0 "Querra de Movimento"
-ww1_landdoctrine_unlock_ww2_desc:0 "New weapon developments like the Tank, the Sub-Machine Gun, and the Light Machine Gun have made the long trenches and stalemates of the last war almost obsolete. Even if we are to still be a defensive focused army, the future is no longer with these old doctrines and mentalities. Tomorrow's war may just make speed a priority."
+ww1_landdoctrine_unlock_ww2_desc:0 "Novos desenvolvimentos de armas como o tanque, a submetralhadora e a metralhadora leve tornaram as longas trincheiras e impasses da última guerra quase obsoletas. Mesmo que ainda sejamos um exército focado na defensiva, o futuro não está mais com essas velhas doutrinas e mentalidades. A guerra de amanhã pode fazer da velocidade uma prioridade.
+"
 
 
 #)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 # NAVAL DOCTRINES
 
 ww1_navaldoctrine:0 "Frotas de Alto Mar"
-ww1_navaldoctrine_desc:0 "The waves are ruled by Dreadnoughts in today's naval warfare. These huge battleships are the centerpiece of almost every fleet. Obviously, our doctrine must reenforce the importance of these Capital Ships, and use our lighter vessels such as Cruisers as screens and support ships for the fleet."
+ww1_navaldoctrine_desc:0 "As ondas são governadas por Dreadnoughts na guerra naval de hoje. Esses enormes navios de guerra são a peça central de quase todas as frotas. Obviamente, nossa doutrina deve reforçar a importância desses Navios Capitais, e usar nossas embarcações mais leves, como os Cruzadores ou telas para a função de apoio à frota"
 
 ww1_navaldoctrine_2:0 "Comboio Naval"
-ww1_navaldoctrine_2_desc:0 "Ensuring supplies are transported across the seas is an important task. Grouping up individual ships into Convoy groups will help our ships protect themselves, have a distinct chain of command, and make sure the supplies get to our shores as quickly and seamlessly as possible."
+ww1_navaldoctrine_2_desc:0 "Garantir que os suprimentos sejam transportados pelos mares é uma tarefa importante. Agrupar navios individuais em grupos de comboios ajudará nossos navios a se protegerem, terão uma cadeia de comando distinta e garantirão que os suprimentos cheguem às nossas costas mais o rápido e sem problemas ."
 
 ww1_navaldoctrine_3:0 "Escolta de Comboio"
-ww1_navaldoctrine_3_desc:0 "While convoys themselves are good transportation ships, they're very weak, and easy prey for any enemy ship, especially those specifically designed as raiders. Using some of our lighter or older vessels as specific convoy escorts, designed to protect these valuable ships, will ensure that even if the dreaded Submarines show their face, our transport ships have at the very least a chance to get out in time."
+ww1_navaldoctrine_3_desc:0 "Embora os próprios comboios sejam bons navios de transporte, eles são muito fracos e presas fáceis para qualquer navio inimigo, especialmente aqueles projetados especificamente como caçadores. Usar algumas de nossas embarcações mais leves ou mais antigas como escoltas de comboios específicas, projetadas para proteger esses valiosos navios, garantirá que, mesmo que os temidos submarinos mostrem sua face, nossos navios de transporte tenham pelo menos uma chance de sair a tempo.
+"
 
 ww1_navaldoctrine_4:0 "Submarinos Cordenados"
-ww1_navaldoctrine_4_desc:0 "Submarines are no new invention, but their use in combat is still being developed. Raiding enemy shipping seems to be where they do best, so ensuring submarine captains and crew know their role and support each other in this task could allow us to starve out our enemies outright."
+ww1_navaldoctrine_4_desc:0 "Os submarinos não são uma invenção nova, mas seu uso em combate ainda está sendo desenvolvido. afundar navios inimigos parece ser onde eles fazem melhor, então garantir que capitães e tripulantes de submarinos conheçam seu papel e se apoiem nessa tarefa pode nos permitir matar nossos inimigos de fome."
 
 ww1_navaldoctrine_5:0 "Foco em ataque a Comboio"
-ww1_navaldoctrine_5_desc:0 "Convoys are easy prey for any of our ships, and very important targets as well. Yet, as if by instinct, most of our captains prefer to fire at their escorts instead, essentially wasting time and allowing critical cargo to escape. If we drill a focus on destroying enemy cargo ships above almost all else into our doctrine, we can severely hamper our enemies' economies."
+ww1_navaldoctrine_5_desc:0 "Os comboios são presas fáceis para qualquer um dos nossos navios, e também alvos muito importantes. No entanto, como por instinto, a maioria de nossos capitães prefere atirar em suas escoltas, perdendo tempo e permitindo que comboios de suprimentos escapem. Se focarmos em destruir navios de carga inimigos acima de tudo em nossa doutrina, podemos prejudicar severamente as economias de nossos inimigos.
+"
 
 ww1_navaldoctrine_5b:0 "Foco em ataque a Navios Capital"
-ww1_navaldoctrine_5b_desc:0 "In the heat of battle, our captains are largely disorganized in fire. For the most part, inexperienced commanders will simply order their ships to fire at the nearest enemy vessel, which isn't always the most important target. Ensuring our fleet commanders know the priorities of enemy ships will ensure we spend more time in battles focusing on the prime pieces of the enemy fleet, and less time worrying about what enemy Destroyers are up to."
+ww1_navaldoctrine_5b_desc:0 "No calor da batalha, nossos capitães estão em grande parte desorganizados. Na maioria das vezes, comandantes inexperientes simplesmente ordenam que seus navios atirem no navio inimigo mais próximo, que nem sempre é o alvo mais importante. Garantir que nossos comandantes de frota conheçam as prioridades no campo de batalha garantirá que gastemos mais tempo focando nos navios principais da frota inimiga e menos tempo nos preocupando com o que os contratorpedeiros inimigos estão fazendo."
 
 ww1_navaldoctrine_6:0 "Movimento de Frotas"
-ww1_navaldoctrine_6_desc:0 "Sometimes, a fleet just needs to get from point A to point B as quickly as possible. Whether this is to escape a much larger enemy fleet, catch up to a smaller one, or simply ensure the maximum efficiency when redeploying, it's a common enough necessity to train our fleet for. Getting more knots out of even our capital ships is possible, with the right techniques and planning."
+ww1_navaldoctrine_6_desc:0 "Às vezes, uma frota só precisa ir do ponto A ao ponto B o mais rápido possível. Seja para escapar de uma frota inimiga muito maior, alcançar uma menor ou simplesmente garantir a máxima eficiência ao se reorganizar, é uma necessidade bastante comum ma guerra naval atual. Aproveitar o máximo de nossos návios, até mesmo de nossos dreadnoughts é possível, com as técnicas e planejamento corretos.
+"
 
 ww1_navaldoctrine_6b:0 "Movimento de Frota Coordenadas"
-ww1_navaldoctrine_6b_desc:0 "When preparing for battle, positioning of individual ships is typically what wins or loses an encounter between equal, or even nearly equal fleets. Ensuring capital ships don't meet their doom just by being at the wrong place at the wrong time (usually just too far from their screens) could save our nation several lives and ships in the long run."
+ww1_navaldoctrine_6b_desc:0 "Ao se preparar para a batalha, o posicionamento de navios individuais é tipicamente o que faz perder ou ganhar uma batalha entre frotas iguais ou quase iguais. Garantir que os navios capitais não encontrem seu destino apenas por estarem no lugar errado na hora errada (geralmente muito longe de suas telas) pode salvar várias vidas e navios de nossa nação a longo prazo."
 
 ww1_navaldoctrine_unlock_ww2:0 "Assalto de Navios de Guerra Poderossos"
-ww1_navaldoctrine_unlock_ww2_desc:0 "While Submarines and Destroyers are quite capable at dealing with enemy shipping, there is most certainly value in using larger ships for this role as well. Battlecruisers in particular could blow away not only any cargo ship, but also any escorts around it, to the bottom of the sea and are more than capable of keeping pace with these vessels. Using our capital ships as convoy raiders will greatly expand our ability to stop any enemy imports."
+ww1_navaldoctrine_unlock_ww2_desc:0 "Embora os submarinos e os contratorpedeiros sejam bastante capazes de lidar com navios inimigos, certamente há valor em usar navios maiores para essa função também. Os cruzadores de batalha, em particular, podem explodir não apenas qualquer navio de carga, mas também qualquer escolta ao seu redor, para o fundo do mar e são mais do que capazes de acompanhar esses navios. Usar nossas naves capitais como invasores de comboio expandirá muito nossa capacidade de impedir qualquer importação inimiga."
 
 
 #)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 # AIR DOCTRINES
 
 ww1_airdoctrine:0 "Esquadras Aereas"
-ww1_airdoctrine_desc:0 "In the earliest days of air warfare, almost every encounter with enemy planes will be a simple one on one fight. However, as more and more of these flying machines join the battle, there would be a great advantage to be had in coherent groups of planes. Adopting air squadrons for our fighters will ensure that any airborne enemies will have no less than two or three pilots tracking them at any time."
+ww1_airdoctrine_desc:0 "Nos primeiros dias da guerra aérea, quase todos os encontros com aviões inimigos eram simples. No entanto, à medida que mais e mais dessas máquinas voadoras se juntam à batalha, haveria uma grande vantagem em grupos coerentes de aviões. A adoção de esquadrões aéreos para nossos caças garantirá que quaisquer inimigos no ar terão pelo menos dois ou três pilotos rastreando-os a qualquer momento.
+"
 
 ww1_airdoctrine_2:0 "Treinamento de Zepelim de Bombardeio"
-ww1_airdoctrine_2_desc:0 "Airships have been shown to be no good for fighting enemy aircraft, and thus must be tooled for bombing specifically. Ensuring that not just the pilot, but every crew member on one of our airships knows when and how to do things like open up the bomb bay and resupply it properly will ensure we make the most of this type of aircraft."
+ww1_airdoctrine_2_desc:0 "Os dirigíveis demonstraram não ser bons para combater aeronaves inimigas e, portanto, devem ser equipados especificamente para bombardeios. Garantir que não apenas o piloto, mas todos os membros da tripulação em um de nossos dirigíveis saibam quando e como fazer coisas como abrir o compartimento de bombas e reabastecê-lo adequadamente garantirá que aproveitemos ao máximo esse tipo de aeronave."
 
 ww1_airdoctrine_3:0 "Avistamento de Bombardeiros"
-ww1_airdoctrine_3_desc:0 "While it's possible to manually determine where exactly a bomb is going to land mid-flight, it's not something you want to waste time doing. Ensuring that all of our bombing aircraft have accurate bombing sights, and that all of our bombing pilots know how to use them, will help all such aircraft hit their marks more often and quickly."
+ww1_airdoctrine_3_desc:0 "Embora seja possível determinar manualmente onde exatamente uma bomba vai cair no meio do voo, não é algo que você queira perder tempo fazendo. Garantir que todas as nossas aeronaves de bombardeio tenham miras de bombardeio precisas e que todos os nossos pilotos de bombardeio saibam como usá-las ajudará todas essas aeronaves a atingir seus alvos com mais frequência e rapidez."
 
 ww1_airdoctrine_4:0 "Bombardeiros Aereos"
-ww1_airdoctrine_4_desc:0 "While any old explosive will work as a bomb, we can increase the accuracy of all of our models with the Aerial Bomb design, which will let us use innovative design changes such as the impact fuse, and, perhaps more importantly, increase the potential weight of such weapons. Supplying our pilots with these new designs as well as continuing to improve the stability and blast power of these designs will lead to direct improvements in our bombing ability."
+ww1_airdoctrine_4_desc:0 "Embora qualquer explosivo antigo funcione como uma bomba, podemos aumentar a precisão de todos os nossos modelos com o design de uma bomba aérea, que nos permitirá usar outras mudanças de design inovadoras, como o fusível de impacto e, talvez mais importante, aumentar o peso potencial de tais armas. Fornecer aos nossos pilotos esses novos projetos, bem como continuar a melhorar a estabilidade e o poder de explosão desses projetos, levará a melhorias diretas em nossa capacidade de bombardeio."
 
 ww1_airdoctrine_5:0 "Formação V"
-ww1_airdoctrine_5_desc:0 "Fighters in squadrons are more effective than those alone, but there are more advantages to be derived here. Utilizing the V-formation will help increase fuel efficiency, and ensure that in unexpected interception, every member of a wing is close enough to help out."
+ww1_airdoctrine_5_desc:0 "Os caças em esquadrões são mais eficazes do que aqueles sozinhos, mas há mais vantagens a serem obtidas. A utilização da formação em V ajudará a aumentar a eficiência de combustível e garantirá que, em uma interceptação inesperada, todos os membros de uma asa estejam próximos o suficiente para ajudar."
 
 ww1_airdoctrine_5b:0 "Carroceu de Bombardeiros"
-ww1_airdoctrine_5b_desc:0 "We have organized our fighters to a large degree, but our bombers still need some work. A good start is rotation- Instead of simply assigning a group of bombers a task and flying them all out there at once, we can rotate our bombers out, sending smaller groups out more consistently to keep the pressure on enemy targets. Since not all of our bombers can hit the same target at once anyway, this will be a direct increase in their capabilities."
+ww1_airdoctrine_5b_desc:0 "Organizamos nossos caças em grande medida, mas nossos bombardeiros também precisam de inovação. Um bom começo é a rotação - Em vez de simplesmente atribuir uma tarefa a um grupo de bombardeiros e levá-los todos de uma vez, podemos girar nossos bombardeiros, enviando grupos menores de forma mais consistente para manter a pressão sobre os alvos inimigos. Como nem todos os nossos bombardeiros podem atingir o mesmo alvo ao mesmo tempo, isso será um aumento direto em suas capacidades."
 
 ww1_airdoctrine_6:0 "Manobras de caça basicas"
-ww1_airdoctrine_6_desc:0 "Playing a large aerial game of chicken works against unarmed or inferior aircraft, but tailing an enemy aircraft, or simply attacking from a direction that no gun is facing, can save many of our pilots, strike fear into our enemies, and make air superiority and interception more of an efficient process."
+ww1_airdoctrine_6_desc:0 " Manobrar ou reposicionar com tranquilidade funciona contra aeronaves desarmadas ou inferiores, mas seguir uma aeronave inimiga, ou simplesmente atacar de uma direção para a qual nenhuma arma está voltada, pode salvar muitos de nossos pilotos, causar medo em nossos inimigos e tornar a superioridade aérea e interceptação de um processo mais eficiente."
 
 ww1_airdoctrine_6b:0 "Bombardeiros Estrategicos"
-ww1_airdoctrine_6b_desc:0 "Though bombs are mostly used on the battlefield itself, there are a few obvious, but largely untapped uses. For instance, an aircraft with enough of a bomb bay capacity could destroy the factories of enemies, which would give us a large, long-term advantage. Currently, our Airships seem fit to take this role."
+ww1_airdoctrine_6b_desc:0 "Embora as bombas sejam usadas principalmente no próprio campo de batalha, existem alguns usos óbvios, mas em grande parte inexplorados. Por exemplo, uma aeronave com capacidade suficiente de compartimento de bombas poderia destruir as fábricas dos inimigos, o que nos daria uma grande vantagem a longo prazo. Atualmente, nossos dirigíveis parecem aptos a assumir esse papel."
 
 ww1_airdoctrine_7:0 "Mergulhar e Bombardear"
-ww1_airdoctrine_7_desc:0 "As Fighter aircraft evolve to be able to take higher altitudes, an interesting tactic becomes available. A high-altitude aircraft that goes into a dive will build up much higher speed, allowing it to make a safe attack on unaware aircraft, and promptly retreat back into the sky. This will be very useful for dealing with low-flying bombers, unaware fighters, or simply doing safe strafing runs."
+ww1_airdoctrine_7_desc:0 "À medida que as aeronaves de caça evoluem para serem capazes de atingir altitudes mais altas, uma tática interessante se torna disponível. Uma aeronave de alta altitude que entra em um mergulho acumula uma velocidade muito maior, permitindo que ela faça um ataque seguro a aeronaves inconscientes e recue imediatamente para o céu. Isso será muito útil para lidar com bombardeiros voando baixo, caças desavisados, ou simplesmente aumentar a precisão das armas."
 
 ww1_airdoctrine_7b:0 "Bombardeio preciso"
-ww1_airdoctrine_7b_desc:0 "Bombing is still not an exact science, but we can make strides to improve it. By adjusting bomb bays to drop bombs more consistently centered, adopting standardized weights for specific scenarios, and training our pilots on when to drop and when to reserve their payload, we can increase the efficiency of our bomber forces further."
+ww1_airdoctrine_7b_desc:0 "O bombardeio ainda não é uma ciência exata, mas podemos avançar para melhorá-lo. Ajustando os compartimentos de bombas para lançar bombas mais consistentemente centralizadas, adotando pesos padronizados para cenários específicos e treinando nossos pilotos sobre quando lançar e quando reservar sua carga, podemos aumentar ainda mais a eficiência de nossas forças de bombardeiros."
 
 ww1_airdoctrine_8:0 "Briga de Manobras"
-ww1_airdoctrine_8_desc:0 "Fighters that are more maneuverable can quickly circle an enemy to stay in their blind spot, and keep pressure on an enemy aircraft. If nothing else, this little flying circus will buy any fighter enough time to get backup, if not confuse his enemy and get an easy exit from a fight. However, if our planes get a significant maneuverability advantage, this will be a very devestating tactic to our enemies."
+ww1_airdoctrine_8_desc:0 "Os caças que são mais manobráveis podem rapidamente circundar um inimigo para permanecer em seu ponto cego e manter a pressão sobre uma aeronave inimiga. Nisso, este pequeno circo voador vai dar a qualquer aeronave tempo suficiente para obter apoio ou confundir seu inimigo e obter uma saída fácil de uma luta. Portanto, se nossos aviões obtiverem uma vantagem significativa de manobrabilidade, essa será uma tática muito devastadora para nossos inimigos."
 
 ww1_airdoctrine_9:0 "Bombardeiro Veloz"
-ww1_airdoctrine_9_desc:0 "In times of enemy air superiority, bombing must be a quick and dirty operation. Training our light bomber pilots in quick bomb-quick exit tactics will let them do additional damage when time is of the essence, and even in normal operation, will increase the speed at which bombers can drop their payloads and return for resupply."
+ww1_airdoctrine_9_desc:0 "Em tempos de superioridade aérea inimiga, o bombardeio deve ser uma operação rápida e suja. Treinar nossos pilotos de bombardeiros leves em táticas de saída rápida de bomba permitirá que eles causem danos adicionais quando o tempo for essencial e, mesmo em operação normal, aumentará a velocidade com que os bombardeiros podem soltar suas cargas e retornar para reabastecimento."
 
 ww1_airdoctrine_unlock_ww2:0 "Iniciativa Ás"
-ww1_airdoctrine_unlock_ww2_desc:0 "Some of our finer pilots are becoming celebrities of note, and are massive inspirations to the men who work in the same air squadron. These men are very valuable in air combat, and as experts to teach their fellow pilots tricks and techniques. Making sure pilots are recognized for their efforts and able to pass on these skills will vastly help our air force."
+ww1_airdoctrine_unlock_ww2_desc:0 "Alguns de nossos melhores pilotos estão se tornando celebridades notáveis ​​e são grandes inspirações para os homens que trabalham no mesmo esquadrão aéreo. Esses homens são muito valiosos em combate aéreo e como especialistas para ensinar truques e técnicas a seus colegas pilotos. Garantir que os pilotos sejam reconhecidos por seus esforços e capazes de transmitir essas habilidades ajudará muito nossa força aérea."
 
 #)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
 
